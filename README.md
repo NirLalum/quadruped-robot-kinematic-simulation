@@ -14,3 +14,5 @@ a - spin +z,
 e - crab walk to the right, 
 
 q - crab walk to the left
+
+t - terminate simulation
