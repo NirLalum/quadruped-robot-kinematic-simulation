@@ -5,8 +5,12 @@ run the first block of the simulation code and then insert input from keyboard a
 
 w - go forward, 
 
-s - go backwards, 
+s - go backwards,
+ 
 d - spin -z, 
+
 a - spin +z, 
+
 e - crab walk to the right, 
+
 q - crab walk to the left
